@@ -1,5 +1,6 @@
 Please enter your details:
 Please make sure to enter your netid accurately, in the format 'ab1234@nyu.edu'
 
-Name:
-NetId:
+Name: Enyi Lian
+NetId: el2986
+NYU email address: el2986@nyu.edu
